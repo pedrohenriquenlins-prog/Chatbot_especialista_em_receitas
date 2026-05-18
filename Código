@@ -40,7 +40,7 @@
         "# ================================\n",
         "\n",
         "# Defina sua chave da Groq aqui\n",
-        "os.environ['GROQ_API_KEY'] = \"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\"\n",
+        "os.environ['GROQ_API_KEY'] = \[Sua chave],
         "\n",
         "\n",
         "# ================================\n",
