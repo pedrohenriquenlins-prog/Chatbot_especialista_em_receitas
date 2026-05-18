@@ -4,7 +4,7 @@ Um chatbot criado para responder perguntas relacionadas ao ramo da culinária. E
 # 🍳 AI Recipe Assistant
 
 Plataforma de chatbot inteligente focada em recomendações culinárias, geração dinâmica de receitas e assistência gastronômica utilizando Inteligência Artificial Conversacional, Engenharia de Prompt e gerenciamento contextual.
-
+ 
 ---
 
 # 📌 Visão Geral
